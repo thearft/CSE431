@@ -1,0 +1,5 @@
+Hossain
+Hosen
+Hossen
+Hussain
+[^a-zA-Z][Hh][o|u]ss?a?[i|e]n[^a-zA-Z]
